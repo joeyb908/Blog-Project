@@ -19,7 +19,5 @@ def get_blog(blog_id):
 
     return render_template('post.html', post=ALL_POSTS[blog_id])
 
-
-
 if __name__ == "__main__":
     app.run(debug=True)
