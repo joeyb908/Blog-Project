@@ -1,7 +1,9 @@
 # Blog Capstone
 
 ## Purpose
-Gain experience with:
+This is a two-part project. Part one is complete and was completed on 7/28/22. Part two is currently in-progress with no ETF (estimated time to finish) currently.
+
+This was a simple project, with a few experiential goals here. They were to gain experience with:
 Flask templating
 Jinja
 CSS
